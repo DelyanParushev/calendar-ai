@@ -198,3 +198,4 @@
 {"tokens": ["Среща", "от", "10", "събота", "с", "Мария", "в", "офиса"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
 {"tokens": ["На", "20ти", "от", "18", "Кино", "в", "офиса"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
 {"tokens": ["На", "18ти", "от", "21", "Футбол", "с", "приятели"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+//proba
