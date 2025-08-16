@@ -1,0 +1,200 @@
+{"tokens": ["Футбол", "от", "15", "сряда", "с", "Мария", "в", "парка"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Вечеря", "от", "14", "10ти"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY"]}
+{"tokens": ["На", "20ти", "от", "12", "Обяд"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["Концерт", "от", "22", "вторник", "в", "офиса"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["събота", "от", "14", "Вечеря", "с", "приятели", "в", "парка"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["четвъртък", "от", "20", "Концерт", "с", "приятели", "в", "парка"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Обяд", "от", "17", "петък", "в", "парка"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["Вечеря", "от", "11", "18ти", "с", "приятели", "в", "киното"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Йога", "от", "14", "22ри", "с", "Мария", "в", "парка"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["На", "20ти", "от", "11", "Кино", "в", "зала"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["понеделник", "от", "12", "Концерт", "с", "Мария", "в", "офиса"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["22ри", "от", "15", "Кино", "в", "парка"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["На", "12ти", "от", "21", "Йога", "с", "приятели", "в", "киното"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Обяд", "от", "15", "събота", "с", "приятели"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON"]}
+{"tokens": ["Обяд", "от", "18", "петък", "в", "парка"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["На", "18ти", "от", "15", "Вечеря"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["сряда", "от", "7", "Кино"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["събота", "от", "21", "Кино", "в", "зала"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["Обяд", "от", "12", "12ти", "с", "екипа"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON"]}
+{"tokens": ["вторник", "от", "11", "Среща", "в", "парка"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["Среща", "от", "19", "вторник", "в", "офиса"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["Йога", "от", "13", "четвъртък"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY"]}
+{"tokens": ["На", "20ти", "от", "14", "Концерт", "с", "Иван"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["На", "15ти", "от", "15", "Вечеря", "с", "екипа"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["неделя", "от", "11", "Вечеря", "в", "киното"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["22ри", "от", "14", "Кино", "с", "приятели"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["На", "12ти", "от", "19", "Кино"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["Обяд", "от", "17", "20ти"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY"]}
+{"tokens": ["Кино", "от", "15", "понеделник", "в", "офиса"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["четвъртък", "от", "14", "Кино", "с", "екипа"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["Среща", "от", "7", "15ти", "в", "киното"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["Йога", "от", "22", "15ти", "с", "приятели", "в", "парка"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["сряда", "от", "11", "Йога", "в", "офиса"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["На", "20ти", "от", "9", "Кино", "с", "приятели"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["петък", "от", "20", "Кино", "в", "офиса"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["Футбол", "от", "19", "четвъртък"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY"]}
+{"tokens": ["Вечеря", "от", "12", "събота", "с", "Мария", "в", "киното"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Футбол", "от", "13", "сряда", "с", "Иван"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON"]}
+{"tokens": ["Вечеря", "от", "9", "12ти", "в", "зала"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["петък", "от", "10", "Обяд"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["неделя", "от", "14", "Футбол"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["петък", "от", "13", "Йога", "с", "приятели"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["Среща", "от", "18", "15ти", "с", "Иван", "в", "парка"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Обяд", "от", "7", "18ти"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY"]}
+{"tokens": ["неделя", "от", "10", "Кино", "с", "екипа"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["сряда", "от", "11", "Концерт"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["На", "15ти", "от", "14", "Вечеря", "с", "екипа", "в", "парка"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["На", "10ти", "от", "11", "Вечеря", "в", "офиса"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["Йога", "от", "15", "22ри", "с", "екипа", "в", "парка"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Йога", "от", "8", "понеделник", "с", "Мария", "в", "зала"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["На", "18ти", "от", "14", "Футбол", "с", "Мария", "в", "зала"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Концерт", "от", "17", "четвъртък"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY"]}
+{"tokens": ["Обяд", "от", "11", "18ти"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY"]}
+{"tokens": ["Обяд", "от", "19", "12ти", "с", "Мария", "в", "парка"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["сряда", "от", "14", "Вечеря", "с", "Иван", "в", "киното"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["събота", "от", "20", "Концерт", "в", "парка"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["Среща", "от", "15", "12ти", "с", "Иван", "в", "зала"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["На", "18ти", "от", "15", "Концерт"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["На", "15ти", "от", "13", "Футбол", "с", "екипа", "в", "киното"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["На", "15ти", "от", "22", "Обяд", "с", "екипа"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["На", "10ти", "от", "18", "Йога", "в", "парка"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["Футбол", "от", "10", "събота", "в", "зала"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["Концерт", "от", "16", "неделя", "с", "Иван", "в", "зала"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Футбол", "от", "13", "понеделник", "в", "офиса"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["Йога", "от", "8", "18ти", "с", "приятели", "в", "зала"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["На", "15ти", "от", "17", "Среща", "в", "офиса"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["вторник", "от", "22", "Кино"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["На", "20ти", "от", "13", "Йога", "в", "киното"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["Кино", "от", "15", "10ти"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY"]}
+{"tokens": ["Вечеря", "от", "9", "18ти", "с", "Иван"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON"]}
+{"tokens": ["Йога", "от", "11", "понеделник", "с", "Иван", "в", "офиса"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["понеделник", "от", "17", "Футбол", "с", "Иван"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["На", "15ти", "от", "22", "Футбол"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["На", "10ти", "от", "14", "Концерт", "с", "Мария", "в", "зала"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["На", "12ти", "от", "15", "Вечеря", "в", "офиса"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["Кино", "от", "10", "събота"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY"]}
+{"tokens": ["Вечеря", "от", "19", "15ти", "с", "приятели", "в", "киното"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Футбол", "от", "14", "15ти"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY"]}
+{"tokens": ["Обяд", "от", "10", "понеделник", "с", "Мария", "в", "зала"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Среща", "от", "7", "понеделник", "с", "приятели"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON"]}
+{"tokens": ["Концерт", "от", "7", "понеделник", "с", "Мария", "в", "киното"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["четвъртък", "от", "9", "Среща", "с", "Мария"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["Йога", "от", "9", "12ти", "в", "офиса"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["сряда", "от", "15", "Йога", "в", "офиса"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["Кино", "от", "13", "22ри", "в", "зала"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["На", "20ти", "от", "14", "Вечеря", "с", "Мария", "в", "зала"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Среща", "от", "11", "петък"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY"]}
+{"tokens": ["неделя", "от", "19", "Кино", "с", "приятели"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["събота", "от", "18", "Концерт", "в", "киното"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["На", "12ти", "от", "21", "Йога", "с", "Мария", "в", "офиса"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["понеделник", "от", "12", "Футбол", "с", "Иван"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["неделя", "от", "21", "Футбол", "с", "екипа"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["Концерт", "от", "14", "събота", "в", "парка"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["На", "12ти", "от", "15", "Обяд", "в", "офиса"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["Концерт", "от", "7", "петък", "с", "екипа"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON"]}
+{"tokens": ["събота", "от", "11", "Йога", "в", "киното"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["На", "10ти", "от", "9", "Футбол", "с", "екипа", "в", "киното"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["На", "18ти", "от", "20", "Йога", "с", "Мария", "в", "киното"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Кино", "от", "14", "четвъртък", "с", "Мария"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON"]}
+{"tokens": ["петък", "от", "13", "Вечеря"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["петък", "от", "10", "Среща", "в", "зала"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["На", "20ти", "от", "11", "Футбол", "с", "приятели"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["Среща", "от", "7", "12ти", "с", "приятели"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON"]}
+{"tokens": ["На", "20ти", "от", "7", "Футбол"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["Среща", "от", "11", "сряда", "с", "Мария", "в", "киното"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Концерт", "от", "21", "сряда", "с", "екипа", "в", "зала"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Обяд", "от", "14", "сряда", "в", "офиса"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["понеделник", "от", "18", "Футбол"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["Концерт", "от", "14", "неделя"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY"]}
+{"tokens": ["четвъртък", "от", "22", "Футбол"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["На", "10ти", "от", "16", "Вечеря", "в", "зала"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["На", "20ти", "от", "12", "Футбол", "с", "Иван", "в", "киното"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["сряда", "от", "12", "Вечеря", "в", "киното"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["Йога", "от", "8", "четвъртък", "в", "киното"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["Вечеря", "от", "18", "10ти", "в", "парка"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["На", "10ти", "от", "19", "Кино", "с", "екипа", "в", "киното"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Кино", "от", "13", "четвъртък", "в", "зала"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["Кино", "от", "21", "20ти", "с", "приятели", "в", "офиса"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Йога", "от", "17", "събота", "в", "зала"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["петък", "от", "21", "Футбол", "в", "офиса"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["Обяд", "от", "16", "вторник", "с", "приятели"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON"]}
+{"tokens": ["На", "18ти", "от", "17", "Футбол"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["22ри", "от", "10", "Футбол", "с", "приятели", "в", "офиса"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Футбол", "от", "21", "22ри", "с", "приятели"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON"]}
+{"tokens": ["На", "12ти", "от", "11", "Йога", "в", "офиса"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["Концерт", "от", "13", "18ти", "с", "Мария", "в", "офиса"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Йога", "от", "22", "22ри", "в", "киното"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["понеделник", "от", "16", "Вечеря"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["На", "15ти", "от", "10", "Йога", "в", "офиса"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["Среща", "от", "11", "12ти"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY"]}
+{"tokens": ["На", "18ти", "от", "15", "Вечеря"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["вторник", "от", "17", "Вечеря", "в", "киното"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["Вечеря", "от", "11", "12ти", "с", "Иван"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON"]}
+{"tokens": ["На", "10ти", "от", "18", "Среща", "с", "приятели"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["На", "10ти", "от", "10", "Вечеря", "в", "парка"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["На", "10ти", "от", "11", "Йога"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["събота", "от", "22", "Футбол", "в", "киното"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["Вечеря", "от", "21", "сряда", "в", "парка"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["На", "15ти", "от", "20", "Кино"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["На", "20ти", "от", "18", "Вечеря", "с", "екипа"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["На", "12ти", "от", "22", "Концерт", "в", "парка"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["Среща", "от", "10", "четвъртък", "с", "Иван", "в", "парка"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Концерт", "от", "13", "неделя", "с", "Иван"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON"]}
+{"tokens": ["петък", "от", "8", "Вечеря", "с", "екипа", "в", "киното"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Концерт", "от", "10", "18ти", "с", "Иван"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON"]}
+{"tokens": ["Обяд", "от", "11", "събота", "с", "приятели", "в", "офиса"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["На", "18ти", "от", "22", "Среща", "с", "приятели"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["Среща", "от", "19", "четвъртък", "в", "парка"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["Обяд", "от", "13", "сряда"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY"]}
+{"tokens": ["четвъртък", "от", "7", "Футбол", "с", "Мария", "в", "парка"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["22ри", "от", "12", "Среща", "с", "Мария", "в", "офиса"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Концерт", "от", "12", "вторник", "с", "екипа"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON"]}
+{"tokens": ["Вечеря", "от", "9", "четвъртък"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY"]}
+{"tokens": ["Концерт", "от", "12", "20ти"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY"]}
+{"tokens": ["Концерт", "от", "15", "четвъртък", "с", "Иван", "в", "зала"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["вторник", "от", "13", "Йога", "с", "приятели"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["На", "20ти", "от", "17", "Футбол", "с", "Мария", "в", "зала"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Обяд", "от", "16", "12ти", "с", "Мария", "в", "зала"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Йога", "от", "10", "сряда", "с", "Мария"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON"]}
+{"tokens": ["Вечеря", "от", "21", "15ти"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY"]}
+{"tokens": ["Концерт", "от", "10", "12ти", "с", "приятели", "в", "киното"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Концерт", "от", "17", "22ри", "с", "Мария", "в", "парка"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["петък", "от", "15", "Футбол", "с", "Мария", "в", "зала"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["вторник", "от", "16", "Обяд", "с", "екипа"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["22ри", "от", "19", "Обяд", "с", "Мария"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["На", "18ти", "от", "15", "Футбол", "в", "киното"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["Среща", "от", "11", "вторник", "в", "офиса"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["вторник", "от", "13", "Среща", "с", "приятели"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["Среща", "от", "15", "20ти", "с", "Мария", "в", "зала"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["понеделник", "от", "21", "Йога", "с", "екипа"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["Концерт", "от", "17", "22ри", "с", "Мария"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON"]}
+{"tokens": ["Среща", "от", "14", "18ти", "в", "парка"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["На", "15ти", "от", "18", "Йога", "с", "екипа", "в", "киното"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Концерт", "от", "12", "вторник", "с", "приятели", "в", "офиса"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Йога", "от", "8", "понеделник", "с", "екипа", "в", "офиса"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["понеделник", "от", "9", "Йога", "с", "Иван", "в", "зала"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["На", "18ти", "от", "18", "Кино", "с", "екипа", "в", "зала"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Концерт", "от", "10", "вторник"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY"]}
+{"tokens": ["Обяд", "от", "13", "петък", "с", "Мария"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON"]}
+{"tokens": ["На", "18ти", "от", "12", "Кино"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["Йога", "от", "9", "понеделник"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY"]}
+{"tokens": ["петък", "от", "15", "Вечеря", "с", "приятели", "в", "парка"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["Концерт", "от", "11", "20ти", "с", "екипа", "в", "зала"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["На", "15ти", "от", "22", "Обяд"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["вторник", "от", "10", "Обяд", "в", "парка"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["На", "20ти", "от", "21", "Футбол", "с", "Мария"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["Футбол", "от", "22", "10ти", "в", "киното"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["сряда", "от", "19", "Футбол"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["Йога", "от", "22", "сряда", "с", "екипа"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON"]}
+{"tokens": ["Футбол", "от", "13", "12ти", "с", "приятели", "в", "офиса"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["На", "12ти", "от", "14", "Футбол"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE"]}
+{"tokens": ["На", "15ти", "от", "19", "Футбол", "с", "приятели"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["Вечеря", "от", "19", "вторник"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY"]}
+{"tokens": ["Йога", "от", "18", "вторник", "в", "зала"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["На", "10ти", "от", "8", "Йога", "с", "приятели"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
+{"tokens": ["Обяд", "от", "18", "20ти", "в", "зала"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["Вечеря", "от", "17", "сряда", "в", "зала"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PLACE"]}
+{"tokens": ["Среща", "от", "10", "събота", "с", "Мария", "в", "офиса"], "labels": ["B-TITLE", "O", "B-WHEN_START", "B-WHEN_DAY", "O", "B-PERSON", "O", "B-PLACE"]}
+{"tokens": ["На", "20ти", "от", "18", "Кино", "в", "офиса"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PLACE"]}
+{"tokens": ["На", "18ти", "от", "21", "Футбол", "с", "приятели"], "labels": ["B-WHEN_DAY", "O", "B-WHEN_START", "B-TITLE", "O", "B-PERSON"]}
