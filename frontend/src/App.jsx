@@ -29,8 +29,19 @@ function App() {
     if (!newEventText.trim()) return;
 
     try {
+      // Parse -> получаваме title + start
       const response = await axios.post(`${API_BASE}/parse`, { text: newEventText });
-      setEvents([...events, response.data]);
+      if (response.data.error) {
+        alert(`Неуспешен parsing: ${response.data.error}`);
+        return;
+      }
+
+      const parsed = response.data;
+
+      // Записваме събитието в базата
+      await axios.post(`${API_BASE}/events`, { text: newEventText });
+
+      setEvents([...events, { title: parsed.title, start: parsed.start }]);
       setNewEventText('');
     } catch (error) {
       console.error('Error adding event:', error);
