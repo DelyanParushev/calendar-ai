@@ -1,13 +1,12 @@
+# backend/main.py
 from fastapi import FastAPI, Depends, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy.orm import Session
-
 from .database import Base, engine, SessionLocal
-from . import models, schemas, nlp_parser
-from .nlp_parser import parse_event_text
+from . import models, schemas
+from ml.nlp_parser_ml import parse_text
 
 app = FastAPI(title="AI Calendar API", version="0.1.0")
-
 
 # CORS за dev фронтенд
 app.add_middleware(
@@ -21,8 +20,6 @@ app.add_middleware(
 # DB init
 Base.metadata.create_all(bind=engine)
 
-# Dependency за сесиите
-
 def get_db():
     db = SessionLocal()
     try:
@@ -30,29 +27,49 @@ def get_db():
     finally:
         db.close()
 
-
 @app.post("/parse")
 def parse_event(payload: dict):
     text = payload.get("text", "")
-    title, dt = parse_event_text(text)
+    if not text:
+        return {"error": "Не е подаден текст."}
 
-    if not dt:
-        return {"error": "Не можах да разбера датата/часа."}
+    result = parse_text(text)
+    dt = result.get("datetime")
+    if dt is None:
+        return {
+            "error": "Не можах да разбера датата/часа.",
+            "debug": {
+                "tokens": result.get("tokens", []),
+                "labels": result.get("labels", []),
+                **(result.get("debug") or {})
+            }
+        }
 
     return {
-        "title": title,
-        "start": dt.isoformat()
+        "title": result.get("title", ""),
+        "start": dt.isoformat(),
+        "tokens": result.get("tokens", []),
+        "labels": result.get("labels", []),
+        "debug": result.get("debug", {})
     }
 
-
 @app.post("/events", response_model=schemas.EventOut)
-def create_event(ev: schemas.EventCreate, db: Session = Depends(get_db)):
-    obj = models.Event(title=ev.title, start=ev.start, end=ev.end, raw_text=ev.raw_text)
+def create_event_from_text(payload: dict, db: Session = Depends(get_db)):
+    text = payload.get("text", "")
+    if not text:
+        raise HTTPException(status_code=400, detail="Не е подаден текст.")
+
+    result = parse_text(text)
+    title = result.get("title", "")
+    dt = result.get("datetime")
+    if dt is None:
+        raise HTTPException(status_code=400, detail="Не можах да разбера датата/часа.")
+
+    obj = models.Event(title=title, start=dt, end=None, raw_text=text)
     db.add(obj)
     db.commit()
     db.refresh(obj)
     return obj
-
 
 @app.get("/events", response_model=list[schemas.EventOut])
 def list_events(db: Session = Depends(get_db)):
