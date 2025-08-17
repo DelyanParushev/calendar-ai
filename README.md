@@ -8,7 +8,7 @@ Title: Йога
 Datetime: 2025-08-18 09:00:00
 Tokens: ['Йога', 'клас', 'утре', 'сутринта']
 Labels: ['B-TITLE', 'B-TITLE', 'B-WHEN_DAY', 'B-WHEN_DAY']
-
+```bash
 ## Инсталация и старт
 ```bash
 python -m venv .venv
